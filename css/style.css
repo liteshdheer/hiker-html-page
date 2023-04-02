@@ -1,0 +1,118 @@
+
+* {
+    margin: 0;
+    padding: 0;   
+    box-sizing: border-box;
+
+}
+
+html,body{
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
+.navbar-light .navbar-toggler {
+    border-color: #ffffff !important;
+    
+}
+.navbar-light .navbar-toggler:focus {
+    border: none !important;
+    
+}
+
+.cstm-logo{
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.cstm-cart i:first-child{
+    font-size: 19px;
+}
+
+.cstm-main-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider1 .owl-stage {
+    right: 30px;
+}
+
+.slider1 h6 {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.common-slider .owl-theme .owl-dots .owl-dot span {
+    width: 50px;
+    height: 5px;
+}
+
+.slider2 .owl-stage {
+    right: 50px;
+}
+.slider2 h6 {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.slider3 .owl-stage {
+    right: 50px;
+}
+.slider3 h6 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.cstm-slider-title{
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.slider4 .owl-stage {
+    right: 50px;
+}
+.slider4 h6 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.slider5 .owl-stage {
+    right: 50px;
+}
+.slider5 h6 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.slider6 .owl-stage {
+    right: 50px;
+}
+.slider6 h6 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 5px;
+}
+
+.heart-red{
+    color: red;
+}
+
+.cstm-style-txt p{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.footer{
+    background-color: black;
+    color: #ffffff;
+}
+
+.footer p{
+    margin-bottom: 0;
+}
